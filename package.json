@@ -32,5 +32,9 @@
   },
   "jest": {
     "preset": "react-native"
+  },
+  "homepage": "https://github.com/kumarmudur/farmDealer-mobile",
+  "bugs": {
+    "url": "https://github.com/kumarmudur/farmDealer-mobile/issues"
   }
 }
